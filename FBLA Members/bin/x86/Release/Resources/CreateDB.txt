@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>
+		How do I create a DB?
+	</title>
+</head>
+<BODY style="background-color: #2d89ef; font-family: Segoe UI Light; color:white;">
+	<p>To create a new database, click the <strong>File</strong> button on the menu strip of the application, and then click
+		<strong>New</strong> button. You will see a dialog pop up on your screen. You can now enter the name of the database
+		file you wish to create. Click 'Save' when you are finished.
+	</p>
+</BODY>
+</HTML>

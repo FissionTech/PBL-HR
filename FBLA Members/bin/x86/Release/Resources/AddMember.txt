@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>
+		How do I add a member?
+	</title>
+</head>
+<BODY style="background-color: #2d89ef; font-family: Segoe UI Light; color:white">
+	<p>On the main page, click <strong>Add</strong>. A dialog box will pop up with all the various fields you can enter
+	for a user. Click OK to add the user, or Cancel to cancel.
+	</p>
+</BODY>
+</HTML>

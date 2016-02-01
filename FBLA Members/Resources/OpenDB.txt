@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>
+		How do I open a DB?
+	</title>
+</head>
+<BODY style="background-color: #2d89ef; font-family: Segoe UI Light; color:white;">
+	<p>To open an existing SQLite database, click <strong>File</strong> -> <strong>Open</strong. There
+		will be a dialog which will allow you to browse your file system and locate a database file.
+		Either double click or select 'Open' to open the file.
+	</p>
+</BODY>
+</HTML>

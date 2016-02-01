@@ -1,0 +1,16 @@
+﻿<Controls:MetroWindow x:Class="FBLA_Members.Instructions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FBLA_Members"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Instructions" Height="316.438" Width="435.616">
+    <Grid>
+        <Label x:Name="FAQLabel" Content="How do I..." HorizontalAlignment="Left" Margin="24,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.056,-0.71" Height="30" Width="69"/>
+        <ComboBox x:Name="FAQList" ItemsSource="{Binding}" DisplayMemberPath="Key" SelectionChanged="FAQList_SelectionChanged" Margin="98,10,0,0" VerticalAlignment="Top" Width="320" Height="30"/>
+        <WebBrowser x:Name="FAQBrowser" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Controls:MetroWindow>

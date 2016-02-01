@@ -1,0 +1,50 @@
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\FBLA Members.exe.config
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\ReportBasic.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\FBLA Members.exe
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\FBLA Members.pdb
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EntityFramework.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\MahApps.Metro.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\System.Data.SQLite.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EntityFramework.xml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\MahApps.Metro.pdb
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\MahApps.Metro.xml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\System.Data.SQLite.xml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\NewEntry.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\NewTemplate.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\App.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members_MarkupCompile.cache
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members_MarkupCompile.lref
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\App.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\MainWindow.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\NewEntry.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\NewTemplate.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.g.resources
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA_Members.Properties.Resources.resources
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.csproj.GenerateResource.Cache
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.exe
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.pdb
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\sqlite3.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members_Content.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.csprojResolveAssemblyReference.cache
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FirstRun.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FirstRun.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\Instructions.g.cs
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\Instructions.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\CreateDB.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\CustomReport.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\MakeReport.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\OpenDB.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\AddMember.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\Resources\SeniorReport.txt
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EPPlus.dll
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\EPPlus.xml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\FBLA Members.exe.manifest
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\bin\Debug\FBLA Members.application
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.exe.manifest
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\FBLA Members\obj\Debug\FBLA Members.application

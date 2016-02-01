@@ -1,0 +1,17 @@
+﻿<Controls:MetroWindow x:Class="FBLA_Members.NewTemplate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FBLA_Members"
+        mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="NewTemplate" Height="450" Width="686.301">
+    <Grid>
+        <Label x:Name="Instructions" Content="Please enter a new template below (HTML Only, use variables @BODY and @TITLE)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.768,-0.251"/>
+        <TextBox x:Name="NewTemplateText" HorizontalAlignment="Left" Height="335" Margin="10,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="658" SpellCheck.IsEnabled="True"/>
+        <Button x:Name="OK" Content="Ok" HorizontalAlignment="Left" Margin="593,384,0,10" Width="75" Click="OK_Click"/>
+        <Button x:Name="Cancel" Content="Cancel" HorizontalAlignment="Left" Margin="493,384,0,0" VerticalAlignment="Top" Width="75" IsCancel="True"/>
+
+    </Grid>
+</Controls:MetroWindow>

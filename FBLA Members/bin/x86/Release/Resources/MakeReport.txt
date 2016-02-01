@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>
+		How do I create a report?
+	</title>
+</head>
+<BODY style="background-color: #2d89ef; font-family: Segoe UI Light; color:white;">
+	<h1>Quick Report #1</h1>
+	<p>To view a list of all members by state, the number of active and non-active members, the number of
+		members that owe money, and the amount of money owed, click <strong>Reports</strong> -> <strong>Quick Report #1</strong>.
+		This will generate an HTML file that you may save or print.
+	</p>
+	
+	<h1>Quick Report #2</h1>
+	<p>To view a list of all senior members and their emails by state, click
+		<strong>Reports</strong> -> <strong>Quick Report #2</strong>.
+		This will generate an HTML file that you may save, print, or output to a .xls file.
+	</p>
+</BODY>
+</HTML>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+	<title>
+		How do I create a custom report?
+	</title>
+</head>
+<BODY style="background-color: #2d89ef; font-family: Segoe UI Light; color:white;">
+	<p>To create your own report, please click <strong>Reports</strong> -> <strong>Custom</strong> -> <strong>New Template</strong>.
+		This will give you a text box in which you can use HTML, CSS, and JavaScript to create a custom report style. The
+		variables you can use are: @TITLE, @BODY, @ACTIVE_MEMBERS, @NONACTIVE_MEMBERS, @TOTAL_STUDENTS_OWING, and @TOTAL_AMOUNT_OWED.
+		These variables will be replaced when you generate the report. Alternatively, you may use an HTML editor of your choice,
+		save the file as a .txt file, and then use the <strong>Reports</strong> -> <strong>Custom</strong> -> <strong>Load Template</strong>
+		option to load the template. <strong>Note: </strong> using a custom template will mean that you cannot export to a .xls file.
+	</p>
+</BODY>
+</HTML>
