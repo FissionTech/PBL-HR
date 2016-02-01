@@ -29,3 +29,7 @@ C:\Users\Michael Lindsay\documents\visual studio 2015\Projects\PBL-HR\Design\obj
 C:\Users\Michael Lindsay\documents\visual studio 2015\Projects\PBL-HR\Design\obj\Debug\NewTemplate.baml
 C:\Users\Michael Lindsay\documents\visual studio 2015\Projects\PBL-HR\Design\obj\Debug\NewEntry.g.cs
 C:\Users\Michael Lindsay\documents\visual studio 2015\Projects\PBL-HR\Design\obj\Debug\NewEntry.baml
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\Design\bin\Debug\Design.exe.manifest
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\Design\bin\Debug\Design.application
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\Design\obj\Debug\Design.exe.manifest
+C:\Users\Michael Lindsay\Documents\Visual Studio 2015\Projects\PBL-HR\Design\obj\Debug\Design.application

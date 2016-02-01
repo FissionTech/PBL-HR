@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBL-HR", "PBL-HR\PBL-HR.csproj", "{950B4BB8-BC63-4C75-80DB-4EC856B23561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design", "Design\Design.csproj", "{B769D6D4-CD68-4644-BDC1-EEB4361C5498}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBL-HR Members", "Design\PBL-HR Members.csproj", "{B769D6D4-CD68-4644-BDC1-EEB4361C5498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBLA Members", "FBLA Members\FBLA Members.csproj", "{79D6A98B-3294-42DB-AC71-AE7E03A3C144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,20 +43,20 @@ Global
 		{B769D6D4-CD68-4644-BDC1-EEB4361C5498}.Release|x64.Build.0 = Release|x64
 		{B769D6D4-CD68-4644-BDC1-EEB4361C5498}.Release|x86.ActiveCfg = Release|x86
 		{B769D6D4-CD68-4644-BDC1-EEB4361C5498}.Release|x86.Build.0 = Release|x86
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|x64.Build.0 = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Debug|x86.Build.0 = Debug|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|x64.ActiveCfg = Release|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|x64.Build.0 = Release|Any CPU
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|x86.ActiveCfg = Release|x86
+		{79D6A98B-3294-42DB-AC71-AE7E03A3C144}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://risingsunstudio.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = PBL-HR\\PBL-HR.csproj
-		SccProjectName1 = PBL-HR
-		SccLocalPath1 = PBL-HR
-		SccProjectUniqueName2 = Design\\Design.csproj
-		SccProjectName2 = Design
-		SccLocalPath2 = Design
 	EndGlobalSection
 EndGlobal
